@@ -1,0 +1,1387 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2014-08-24 00:03+0900\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Plugin/AjaxImage/Controller/Component/AjaxImageComponent.php:21;75
+msgid "Invalid id"
+msgstr ""
+
+#: Plugin/AjaxImage/View/Helper/AjaxImageHelper.php:21;51
+msgid "Drag and drop image to upload."
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:18
+#: View/Layouts/bootstrap.ctp:48
+msgid "Toggle navigation"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:23
+#: View/Layouts/bootstrap.ctp:78
+msgid "Chat"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:29
+msgid "New Room"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:30
+msgid "Logout"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:31;142
+msgid "Add Character"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:32;163
+msgid "Add NPC"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:33;241
+msgid "Edit Room"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:34;265
+msgid "Edit Map"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:93;116;215;245
+#: Plugin/Chat/View/Chats/index.ctp:6
+#: Plugin/Chat/View/Chats/view.ctp:4
+#: Plugin/Kancolle/View/Characters/index.ctp:6
+#: Plugin/Kancolle/View/Characters/view.ctp:14
+#: Plugin/Kancolle/View/NavalDistricts/index.ctp:6
+#: Plugin/SwordWorld2/View/Campaigns/index.ctp:6
+#: Plugin/SwordWorld2/View/Characters/index.ctp:6
+#: Plugin/SwordWorld2/View/Characters/view.ctp:529;609
+#: Plugin/SwordWorld2/View/SampleCharacters/index.ctp:6
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:12
+msgid "Name"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:94
+#: Plugin/Chat/View/Chats/view.ctp:5
+msgid "Message"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:96;100
+msgid "Submit"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:112
+msgid "Create Room"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:120
+#: Plugin/Chat/View/Chats/index.ctp:7
+msgid "Game Type"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:122
+#: View/Layouts/bootstrap.ctp:59
+msgid "Sword World 2.0"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:123
+msgid "Kancolle RPG"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:128
+msgid "Create"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:129;150;170;197;228;252;281;299
+msgid "Cancel"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:149;169
+msgid "Add"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:190;221
+#: Plugin/Kancolle/View/Characters/view.ctp:580
+#: Plugin/SwordWorld2/View/Characters/view.ctp:533
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:370;388
+msgid "Memo"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:195;226;250;278
+msgid "Save"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:196;227;251
+msgid "Remove"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:269
+msgid "MapWidth"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:273
+msgid "MapHeight"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:279
+msgid "Upload Image"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:280
+msgid "Remove Image"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:293
+msgid "Upload Map Image"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/chat.ctp:296
+msgid "Drag and drop to upload image."
+msgstr ""
+
+#: Plugin/Chat/View/Chats/index.ctp:8
+#: Plugin/SwordWorld2/View/Campaigns/index.ctp:7
+msgid "Game Master"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/index.ctp:16
+#: Plugin/Kancolle/View/Characters/index.ctp:17
+#: Plugin/Kancolle/View/NavalDistricts/index.ctp:18
+#: Plugin/SwordWorld2/View/Campaigns/index.ctp:17
+#: Plugin/SwordWorld2/View/Characters/index.ctp:21
+#: Plugin/SwordWorld2/View/SampleCharacters/index.ctp:15
+#: View/Users/view.ctp:20;40
+msgid "View"
+msgstr ""
+
+#: Plugin/Chat/View/Chats/view.ctp:6
+msgid "Date/Time"
+msgstr ""
+
+#: Plugin/InlineForm/View/Helper/InlineFormHelper.php:132
+#: Plugin/InlineForm2/View/Helper/InlineForm2Helper.php:460
+msgid "(T)"
+msgstr ""
+
+#: Plugin/InlineForm/View/Helper/InlineFormHelper.php:133
+#: Plugin/InlineForm2/View/Helper/InlineForm2Helper.php:461
+msgid "(F)"
+msgstr ""
+
+#: Plugin/InlineForm/View/Helper/InlineFormHelper.php:199
+#: Plugin/InlineForm2/Test/Case/View/Helper/InlineForm2HelperTest.php:145
+#: Plugin/InlineForm2/View/Helper/InlineForm2Helper.php:100;528
+msgid "(No Select)"
+msgstr ""
+
+#: Plugin/Kancolle/Controller/CharactersController.php:32
+#: View/Users/view.ctp:32
+msgid "Kancolle Characters"
+msgstr ""
+
+#: Plugin/Kancolle/Controller/CharactersController.php:43
+msgid "New Character"
+msgstr ""
+
+#: Plugin/Kancolle/Controller/NavalDistrictsController.php:29
+msgid "New Naval District"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/index.ctp:7
+#: Plugin/Kancolle/View/Characters/view.ctp:31
+#: Plugin/SwordWorld2/View/Characters/index.ctp:7
+#: Plugin/SwordWorld2/View/Characters/view.ctp:68
+msgid "User"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/index.ctp:8
+#: Plugin/Kancolle/View/NavalDistricts/index.ctp:9
+#: Plugin/SwordWorld2/View/Campaigns/index.ctp:8
+#: Plugin/SwordWorld2/View/Characters/index.ctp:11
+msgid "Last Modify"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/index.ctp:32
+#: Plugin/SwordWorld2/View/Characters/index.ctp:45
+msgid "Create New Character"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/index.ctp:35
+#: Plugin/SwordWorld2/View/Characters/index.ctp:48
+msgid "Are you sure to create new character?"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:44
+msgid "Naval District"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:57
+msgid "Ship Type"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:60
+msgid "Destroyer"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:61
+msgid "Light Cruiser"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:62
+msgid "Heavy Cruiser"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:63
+msgid "Light Aircraft Carrier"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:64
+msgid "Aircraft Carrier"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:65
+msgid "Battle Ship"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:77
+#: Plugin/Kancolle/View/NavalDistricts/index.ctp:7
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:28
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:47;146
+msgid "Level"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:92;456
+msgid "Initial Personality"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:104
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:68
+msgid "Fuel"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:105
+msgid "Ammutition"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:106
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:70
+msgid "Steel"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:107
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:71
+msgid "Bauxite"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:114
+msgid "[Good]"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:115
+msgid "[OK]"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:116
+msgid "[NG]"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:119
+msgid "Material Compatibility"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:135
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:271
+msgid "Accuracy"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:149
+#: Plugin/SwordWorld2/View/Characters/view.ctp:532;574
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:368;386;401
+msgid "Evasion"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:163
+msgid "Equipment Power"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:179
+msgid "Fire Power"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:193
+msgid "Protection Power"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:207
+msgid "Action Power"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:231
+msgid "Personality Table"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:384
+msgid "Equipment"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:391;430
+msgid "Designated Personality"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:393
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:102
+msgid "Firing Range"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:397
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:105
+msgid "Short"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:398
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:106
+msgid "Medium"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:399
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:107
+msgid "Long"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:400
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:108
+msgid "Very Long"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:404
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:269
+msgid "Accuracy Correction"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:406
+msgid "Fire Power Correction"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:410;428
+msgid "Type"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:412;444
+msgid "Ability"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:421
+msgid "Tactics / Inherence"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:429
+msgid "Tactics"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:429
+msgid "Inherence"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:432
+msgid "Style"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:436
+msgid "Auto"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:437
+msgid "Move"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:438
+msgid "Sub"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:465
+msgid "[Positive]"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:466
+msgid "[Negative]"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:478
+msgid "People"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:485
+msgid "Cheer"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:487
+msgid "Affect"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:489
+msgid "Attribute"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:500
+msgid "Items"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:502
+msgid "EXP"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:510
+msgid "Damage..."
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:515
+msgid "Protection x 1"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:516
+msgid "Protection x 2"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:517
+msgid "Protection x 3"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:518
+msgid "Protection x 4"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:531
+msgid "Minor Damage"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:532
+msgid "Middle Damage"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:533
+msgid "Major Damage"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:534
+msgid "Torpedoed"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:545
+msgid "Reaction Table"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:550
+msgid "One"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:554
+msgid "Two"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:558
+msgid "Three"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:562
+msgid "Four"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:566
+msgid "Five"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:570
+msgid "Six"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:595
+#: Plugin/SwordWorld2/View/Characters/view.ctp:733
+msgid "Delete Character"
+msgstr ""
+
+#: Plugin/Kancolle/View/Characters/view.ctp:598
+#: Plugin/SwordWorld2/View/Characters/view.ctp:733
+msgid "Are you sure to delete character?"
+msgstr ""
+
+#: Plugin/Kancolle/View/Indexes/index.ctp:8;20
+msgid "Keyword"
+msgstr ""
+
+#: Plugin/Kancolle/View/Indexes/index.ctp:21
+msgid "Yomigana"
+msgstr ""
+
+#: Plugin/Kancolle/View/Indexes/index.ctp:22
+msgid "Book"
+msgstr ""
+
+#: Plugin/Kancolle/View/Indexes/index.ctp:23
+msgid "Page"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/index.ctp:8
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:48
+msgid "Admiral"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/index.ctp:34
+msgid "Create New Naval District"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/index.ctp:37
+msgid "Are you sure to create new naval district?"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:18
+msgid "Naval District Name"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:38
+msgid "Fleet Name"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:63
+msgid "Materials"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:69
+msgid "Ammunition"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:89
+msgid "Equipment Abilities"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:94
+msgid "Equipment Name"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:98
+msgid "Specified Personality"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:112
+msgid "Accuracy Power Collection"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:116
+msgid "Fire Power Collection"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:120
+msgid "Equipment Ability"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:131
+msgid "Kanmusu"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:147
+msgid "Delete Naval District"
+msgstr ""
+
+#: Plugin/Kancolle/View/NavalDistricts/view.ctp:150
+msgid "Are you sure to delete base?"
+msgstr ""
+
+#: Plugin/RealtimeForm/Controller/Component/RealtimeFormComponent.php:21;38;53;68;85;98
+msgid "Invalid operation"
+msgstr ""
+
+#: Plugin/SwordWorld2/Controller/CharactersController.php:73
+msgid "%s - Sword World 2.0 Characters -"
+msgstr ""
+
+#: Plugin/SwordWorld2/Controller/CharactersController.php:206
+msgid "Create a new character from sample characters"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Campaigns/index.ctp:32
+msgid "Create New Campaign"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Campaigns/index.ctp:35
+msgid "Are you sure to create new campaign?"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Campaigns/view.ctp:16
+#: Plugin/SwordWorld2/View/Characters/view.ctp:141
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:65
+msgid "Experience Points"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Campaigns/view.ctp:18
+msgid "Growth Count"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Campaigns/view.ctp:20
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:553
+msgid "Honors"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/index.ctp:8
+#: Plugin/SwordWorld2/View/Characters/view.ctp:100
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:39
+#: Plugin/SwordWorld2/View/SampleCharacters/index.ctp:7
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:16
+msgid "Race"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/index.ctp:9
+#: Plugin/SwordWorld2/View/Characters/view.ctp:116
+#: Plugin/SwordWorld2/View/SampleCharacters/index.ctp:9
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:20
+msgid "Nationality"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/index.ctp:10
+#: Plugin/SwordWorld2/View/Characters/sample.ctp:20
+#: Plugin/SwordWorld2/View/Characters/view.ctp:137
+#: Plugin/SwordWorld2/View/SampleCharacters/index.ctp:8
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:24
+msgid "Adventurer Level"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/index.ctp:26
+msgid "View (Alpha Version)"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/index.ctp:53
+msgid "Import Sample Character"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/sample.ctp:17
+msgid "Import"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:50
+msgid "New character view is developping now."
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:51
+msgid "You can visit to preview page by "
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:51
+msgid "this link"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:51
+msgid "."
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:76
+msgid "Campaign"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:84
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:58
+msgid "Sex"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:86
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:59
+msgid "Male"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:86
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:59
+msgid "Female"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:92
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:56
+msgid "Age"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:108
+msgid "Racial Abilities"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:132
+msgid "Basic Informations"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:145
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:67
+msgid "Fumbles"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:149
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:74
+msgid "Number of Growth"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:153
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:76
+msgid "Is Private"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:163
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:423
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:32
+msgid "Backgrounds / Notes"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:176
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:434
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:28
+msgid "Inventory"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:184
+msgid "Money"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:189
+msgid "Money on Hands"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:190
+msgid "Deposit"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:191
+msgid "Debt"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:207
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:447
+msgid "Consumable Supplies"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:229
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:166
+msgid "Ornaments"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:234
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:466
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:170
+msgid "Area"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:235
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:467
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:171
+msgid "Ornament"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:236
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:468;506;596;628;648;674;694;707
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:172
+msgid "Effects"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:242
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:474
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:178
+msgid "Head"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:243
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:475
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:179
+msgid "Face"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:244
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:476
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:180
+msgid "Ears"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:245
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:477
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:181
+msgid "Neck"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:246
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:478
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:182
+msgid "Back"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:247
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:479
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:183
+msgid "Right Hand"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:248
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:480
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:184
+msgid "Left Hand"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:249
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:481
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:185
+msgid "Waist"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:250
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:482
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:186
+msgid "Feet"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:251
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:483
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:187
+msgid "Other"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:269
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:99
+msgid "Languages"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:274
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:525
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:102
+msgid "Language"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:282
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:530
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:110
+msgid "Common Trade Language"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:294
+msgid "Honorable Items"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:307
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:564
+msgid "Honors in Hand"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:311
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:568
+msgid "Total Honors"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:327;336;746
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:95
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:38
+msgid "Ability Points"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:334
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:93
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:45
+msgid "Base Value"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:335
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:94
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:46
+msgid "Growth"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:337
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:96
+msgid "Bonus"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:343
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:101
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:50
+msgid "Ability Skill"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:344
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:101
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:51
+msgid "Ability Body"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:345
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:101
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:52
+msgid "Ability Mind"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:348
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:103
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:55
+msgid "Dexterity"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:349
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:103
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:56
+msgid "Agility"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:350
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:103
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:57
+msgid "Strength"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:351
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:103
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:58
+msgid "Vitality"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:352
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:103
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:59
+msgid "Intelligence"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:353
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:103
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:60
+msgid "Spirit"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:386
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:89
+msgid "Skills"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:391
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:145
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:92
+msgid "Skill"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:393
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:148
+msgid "Next"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:394
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:149
+msgid "Total"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:414
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:171
+msgid "HP"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:418
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:173
+msgid "MP"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:430
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:179
+msgid "Fortitude"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:434
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:181
+msgid "Willpower"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:446
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:187
+msgid "Monster Lore"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:450
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:189
+msgid "Initiative"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:462
+msgid "Limited Speed"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:466
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:195
+msgid "Speed"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:470
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:197
+msgid "Maximum Speed"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:482
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:121
+msgid "Waepons"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:489;563
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:247
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:127
+msgid "Using Skill"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:494
+msgid "StrReq"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:497
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:282
+msgid "I-Table"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:508
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:284
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:145
+msgid "Base Crit"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:509
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:297
+msgid "Damage Correction"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:530
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:256;364;382
+msgid "Strength Require"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:531;569
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:366;384;399
+msgid "Protection Point"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:538
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:362
+msgid "Armor"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:546
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:380
+msgid "Shield"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:564
+msgid "Sum"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:587
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:155
+msgid "Combat Feats"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:605
+msgid "Magic Powers"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:611
+msgid "Intelligence Bonus"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:626
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:582
+msgid "Enhancer"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:643
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:584
+msgid "Rider"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:647
+msgid "Skill Level"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:668
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:583
+msgid "Bard"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:672;704
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:613;665
+msgid "Standard Value"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:674
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:615
+msgid "Effective Range"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:677
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:617
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:8
+msgid "Instrument"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:680
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:619
+msgid "Pet"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:700
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:585
+msgid "Alchemist"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:726
+msgid "Recalculate"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view.ctp:745;753
+msgid "Close"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:49
+msgid "Belongs"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:147
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:7
+msgid "Magic Power"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:245
+msgid "Waepon Name"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:258
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:4
+msgid "To Hold"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:299
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:5
+msgid "Extra Damage"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:397
+msgid "Evasion Skill"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:448
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:10
+msgid "Count"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:504
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:158
+msgid "Combat Feat"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:505
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:6
+msgid "Auto Acquire"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:526
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:2
+msgid "Talk"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:527
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:3
+msgid "Write"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:552
+msgid "Honorable Item"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:586
+msgid "War Leader"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:587
+msgid "Mistic"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:595
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:216
+msgid "Enhancer Ability"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:626
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:234
+msgid "Bard Ability"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:627
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:11
+msgid "Introduction"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:647
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:206
+msgid "Rider Ability"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:672
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:245
+msgid "Alchemist Ability"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:673
+msgid "Card"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:693
+msgid "War Leader Ability"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/Characters/view_dev.ctp:706
+msgid "Mistic Ability"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/index.ctp:24
+msgid "Add New Sample Character"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:125
+msgid "Waepon"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:133;146
+msgid "Correction"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:203
+msgid "Rider Abilities"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:213
+msgid "Enhancer Abilities"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:223
+msgid "Bard Instrument"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:227
+msgid "Bard Pet"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:231
+msgid "Bard Abilities"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/SampleCharacters/view.ctp:242
+msgid "Alchemist Abilities"
+msgstr ""
+
+#: Plugin/SwordWorld2/View/i18n/i18n.ctp:9
+msgid "Using Cards"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:10
+msgid "Set theme to place Bootstrap files in."
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:15
+msgid "Set file output to webroot Theme dir (use with theme option)."
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:22
+msgid "TwitterBootstrap Copy Shell Help."
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:29
+msgid "Copies Less, Js & Img source from Bootstrap submodule in plugin Vendor dir"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:31
+msgid "files will be placed in webroot of App or named Theme"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:39
+msgid "Copies Less source from Bootstrap submodule in plugin Vendor dir"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:41
+msgid "files will be placed in webroot/css/lib/ of App or named Theme"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:49
+msgid "Copies Img source from Bootstrap submodule in plugin Vendor dir"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:51
+msgid "files will be placed in webroot/img/ of App or named Theme"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:59
+msgid "Copies Js source from Bootstrap submodule in plugin Vendor dir"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:61
+msgid "files will be placed in webroot/js/lib of App or named Theme"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:108
+msgid "Success."
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Console/Command/CopyShell.php:110
+msgid "Error!"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Controller/TwitterBootstrapController.php:18
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Controller/TwitterBootstrapController.php:24
+msgid "Alert notice message testing..."
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Controller/TwitterBootstrapController.php:27
+msgid "Alert success message testing..."
+msgstr ""
+
+#: Plugin/TwitterBootstrap/Controller/TwitterBootstrapController.php:31
+msgid "Alert error message testing..."
+msgstr ""
+
+#: Plugin/TwitterBootstrap/View/Layouts/default.ctp:6
+msgid "CakePHP: the rapid development php framework:"
+msgstr ""
+
+#: Plugin/TwitterBootstrap/View/Layouts/default.ctp:51
+msgid "CakePHP"
+msgstr ""
+
+#: View/Layouts/bootstrap.ctp:53
+msgid "Beniimo TRPG"
+msgstr ""
+
+#: View/Layouts/bootstrap.ctp:63;73
+#: View/Pages/home.ctp:25;34
+msgid "Characters"
+msgstr ""
+
+#: View/Layouts/bootstrap.ctp:64
+#: View/Pages/home.ctp:26
+msgid "Campaigns"
+msgstr ""
+
+#: View/Layouts/bootstrap.ctp:69
+msgid "Kancolle"
+msgstr ""
+
+#: View/Layouts/bootstrap.ctp:74
+#: View/Pages/home.ctp:35
+msgid "Naval Districts"
+msgstr ""
+
+#: View/Layouts/bootstrap.ctp:75
+msgid "Index"
+msgstr ""
+
+#: View/Users/view.ctp:12
+msgid "Sword World 2.0 Characters"
+msgstr ""
+
