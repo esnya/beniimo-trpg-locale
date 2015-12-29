@@ -4,6 +4,10 @@
 		public $helpers = array('InlineForm.InlineForm', 'RealtimeForm.RealtimeForm', 'AjaxImage.AjaxImage', 'InlineForm2.InlineForm2');
 		public $components = array('RequestHandler', 'InlineForm.InlineForm', 'AjaxImage.AjaxImage', 'RealtimeForm.RealtimeForm', 'InlineForm2.InlineForm2');
 
+        public function beforeFilter() {
+            $this->Auth->allow('index', 'summary', 'image');
+        }
+
 		public function index() {
 			$user_id = $this->Auth->user('id');
 			$characters = $this->Character->find('all', array(
