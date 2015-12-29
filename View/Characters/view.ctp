@@ -880,7 +880,7 @@
 			</div><!-- /.tab-content -->
 		</div><!-- /.col -->
 	</div><!-- /.row -->
-<?= $this->Html->link(_('Copy this link to use the character in the beniimo onnline chat'), ['action' => 'summary', Hash::get($character, 'Character.id') . '.json']) ?>
+<?= $this->Html->link(__('Copy this link to use the character in the beniimo onnline chat'), ['action' => 'summary', Hash::get($character, 'Character.id') . '.json']) ?>
 <div>
 <input class=form-control type=text value="<?= 'http://' . Hash::get($_SERVER, 'HTTP_HOST') . $this->Html->url(['action' => 'summary', Hash::get($character, 'Character.id') . '.json']) ?>"readonly>
 </div>
